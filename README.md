@@ -1,5 +1,5 @@
-git clone https://github.com/ferdousvau1/FUCK-JAMES404
+$ git clone https://github.com/ferdousvau1/FUCK-JAMES404
 
-cd FUCK-JAMER404
+$ cd FUCK-JAMER404
 
-python 
+$ python Fuck-James.py
